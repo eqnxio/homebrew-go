@@ -2,9 +2,9 @@ class GithubComKyleconroyHellogopher < Formula
   desc ''
   homepage 'https://go.equionx.io/github.com/kyleconroy/hellogopher'
 
-  url 'https://bin.equinox.io/a/dmDccZRLzRw/github-com-kyleconroy-hellogopher-475b9343913bb641c56e321c3ba7a9debe98319d-darwin-amd64.tar.gz'
-  sha256 '653c07ac4a683b4c8da8d6cb2eddd6316cfd539b707bb3430028984fef55e002'
-  version '475b9343913bb641c56e321c3ba7a9debe98319d'
+  url 'https://bin.equinox.io/a/eEanicQMmcL/github-com-kyleconroy-hellogopher-57ecffe8fe08ace6e6bfc38a970d723202663839-darwin-amd64.tar.gz'
+  sha256 'bef7c8e30a1c1fbf17c32a17040efb3c9ad90682b6d2f88501f0ccceb0bfbb7c'
+  version '57ecffe8fe08ace6e6bfc38a970d723202663839'
 
   def install
     bin.install 'hellogopher'
