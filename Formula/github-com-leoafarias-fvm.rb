@@ -2,9 +2,9 @@ class GithubComLeoafariasFvm < Formula
   desc ''
   homepage 'https://go.equinox.io/github.com/leoafarias/fvm'
 
-  url 'https://bin.equinox.io/a/75Rfj2j1HsT/github-com-leoafarias-fvm-bb39466df687bc64c3b23d48e4b4890356bf22b2-darwin-amd64.tar.gz'
-  sha256 '33515112965bd9bb0eeb9bf4b65248cf80846a49f8810c9b493b10b46133a9f8'
-  version 'bb39466df687bc64c3b23d48e4b4890356bf22b2'
+  url 'https://bin.equinox.io/a/nfUNkKMFa7v/github-com-leoafarias-fvm-a19080306efb5da6212385e69a73704d33334485-darwin-amd64.tar.gz'
+  sha256 'b686d22a87f0c61dc4b7332a31b0df2805b29526db916f141a58a8190eece205'
+  version 'a19080306efb5da6212385e69a73704d33334485'
 
   def install
     bin.install 'fvm'
