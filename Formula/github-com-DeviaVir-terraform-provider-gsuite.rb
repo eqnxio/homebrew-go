@@ -1,4 +1,4 @@
-class GithubComDeviaVirTerraformProviderGsuite < Formula
+class GithubComDeviavirTerraformProviderGsuite < Formula
   desc ''
   homepage 'https://go.equinox.io/github.com/DeviaVir/terraform-provider-gsuite'
 
