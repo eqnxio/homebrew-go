@@ -1,4 +1,4 @@
-class GithubComJustinJuddPassgenPassgen < Formula
+class GithubComJustinjuddPassgenPassgen < Formula
   desc ''
   homepage 'https://go.equinox.io/github.com/JustinJudd/passgen/passgen'
 
