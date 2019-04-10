@@ -1,4 +1,4 @@
-class GithubComGSLabDevTerraformProviderAd < Formula
+class GithubComGslabdevTerraformProviderAd < Formula
   desc ''
   homepage 'https://go.equinox.io/github.com/GSLabDev/terraform-provider-ad'
 
