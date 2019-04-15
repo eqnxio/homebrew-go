@@ -1,10 +1,10 @@
 class GithubComGohugoioHugo < Formula
   desc ''
-  homepage 'https://go.equionx.io/github.com/gohugoio/hugo'
+  homepage 'https://go.equinox.io/github.com/gohugoio/hugo'
 
-  url 'https://bin.equinox.io/a/82MBymtVXci/github-com-gohugoio-hugo-908692fae5c5840a0db8c7dd389b59dd3b8026b9-darwin-amd64.tar.gz'
-  sha256 '08c91483cf0d7d5bfcb50e8c85a1eb5668c42c8335691b4297f2356ce0b8755f'
-  version '908692fae5c5840a0db8c7dd389b59dd3b8026b9'
+  url 'https://bin.equinox.io/a/6VbgBwqJKAG/github-com-gohugoio-hugo-701486728e21bc0c6c78c2a8edb988abdf6116c7-darwin-amd64.tar.gz'
+  sha256 'e9e81561a2d5d85e0c0b9f8fac013bbd5eecfb9e5c1fdc118d303a5e257e4a41'
+  version '701486728e21bc0c6c78c2a8edb988abdf6116c7'
 
   def install
     bin.install 'hugo'
