@@ -2,9 +2,9 @@ class GithubComKevinburkeYnabGoYnabAgeOfMoney < Formula
   desc ''
   homepage 'https://go.equinox.io/github.com/kevinburke/ynab-go/ynab-age-of-money'
 
-  url 'https://bin.equinox.io/a/dKiX2x22axJ/github-com-kevinburke-ynab-go-ynab-age-of-money-ea84e1f577555c1b6c5038750b42e7ee5090db54-darwin-amd64.tar.gz'
-  sha256 '5ba95fc22c9e311fcf3db0318756b474e868c40d898703bb0c2fd86c98117314'
-  version 'ea84e1f577555c1b6c5038750b42e7ee5090db54'
+  url 'https://bin.equinox.io/a/bhz48gmG4WK/github-com-kevinburke-ynab-go-ynab-age-of-money-bc16f3e0654edf2702acc57874c79427dfc0024d-darwin-amd64.tar.gz'
+  sha256 'e73c29f06de99c2ae92ca7691a56721bbe1dedb0dcd2875826ebaba1fece2ebd'
+  version 'bc16f3e0654edf2702acc57874c79427dfc0024d'
 
   def install
     bin.install 'ynab-age-of-money'
