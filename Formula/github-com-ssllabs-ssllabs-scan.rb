@@ -1,10 +1,10 @@
 class GithubComSsllabsSsllabsScan < Formula
   desc ''
-  homepage 'https://go.equionx.io/github.com/ssllabs/ssllabs-scan'
+  homepage 'https://go.equinox.io/github.com/ssllabs/ssllabs-scan'
 
-  url 'https://bin.equinox.io/a/npF6aWW7r7B/github-com-ssllabs-ssllabs-scan-e2861a040763619b6313a10c0979948e229287cd-darwin-amd64.tar.gz'
-  sha256 '27ce417e8e3adf9d6e1107d474f601a421fd13ae6c46cd5874ce178edd290b21'
-  version 'e2861a040763619b6313a10c0979948e229287cd'
+  url 'https://bin.equinox.io/a/ez9d7mADxdw/github-com-ssllabs-ssllabs-scan-v1.5.0-darwin-amd64.tar.gz'
+  sha256 '8faf5309063a117c06f5fb118a5dea99acae1080d75354c7bd68906bd77facf8'
+  version 'v1.5.0'
 
   def install
     bin.install 'ssllabs-scan'
