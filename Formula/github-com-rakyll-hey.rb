@@ -1,10 +1,10 @@
 class GithubComRakyllHey < Formula
   desc ''
-  homepage 'https://go.equionx.io/github.com/rakyll/hey'
+  homepage 'https://go.equinox.io/github.com/rakyll/hey'
 
-  url 'https://bin.equinox.io/a/kYSNsiCAak6/github-com-rakyll-hey-01803349acd49d756dafa2cb6ac5b5bfc141fc3b-darwin-amd64.tar.gz'
-  sha256 'e18edc1cd140bc40675da42440effcf287b3d9d075474afc4acdcadf91fa130f'
-  version '01803349acd49d756dafa2cb6ac5b5bfc141fc3b'
+  url 'https://bin.equinox.io/a/fWZhiV3RNuC/github-com-rakyll-hey-v0.1.2-darwin-amd64.tar.gz'
+  sha256 '145d31b01db923c862cf5ab3c4673b2e25d3d3beedcd6e110e2fec35f6e64475'
+  version 'v0.1.2'
 
   def install
     bin.install 'hey'
